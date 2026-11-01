@@ -1,0 +1,5 @@
+psutil>=5.9
+# Optional: the now-playing bar (title, position, seeking)
+winrt-runtime>=2.0
+winrt-Windows.Media.Control>=2.0
+winrt-Windows.Foundation>=2.0

@@ -1,0 +1,6 @@
+# Created on first run: pairing PIN, device tokens, your apps/links, wallpaper, logs
+data/
+
+__pycache__/
+*.pyc
+*.tmp
